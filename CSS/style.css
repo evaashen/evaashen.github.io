@@ -1,0 +1,10 @@
+.custom-primary-color {
+	color: grey;
+}
+.custom-primary-color:hover {
+	color: pink;
+}
+
+body {
+	font-family: 'Merriweather', serif;
+}
